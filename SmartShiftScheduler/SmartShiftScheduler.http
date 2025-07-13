@@ -1,0 +1,6 @@
+@SmartShiftScheduler_HostAddress = http://localhost:5222
+
+GET {{SmartShiftScheduler_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
